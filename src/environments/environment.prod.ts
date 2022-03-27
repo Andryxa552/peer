@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  socketUrl: 'https://frozen-waters-35931.herokuapp.com/'
 };
